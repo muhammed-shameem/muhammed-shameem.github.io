@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.0f65d418.css",
-    "main.js": "/static/js/main.4e671c2d.js",
+    "main.js": "/static/js/main.8b85dd5a.js",
     "static/js/787.623829fa.chunk.js": "/static/js/787.623829fa.chunk.js",
     "static/media/logo.gif": "/static/media/logo.76279835dd429b0929f4.gif",
     "static/media/shameem.jpg": "/static/media/shameem.79590c62be3d9cb082d3.jpg",
-    "static/media/shameem_cv_updated.pdf": "/static/media/shameem_cv_updated.1ad31da4673aacaec470.pdf",
+    "static/media/muhammed_shameem_cv.pdf": "/static/media/muhammed_shameem_cv.38aa2ecdc3c01090e259.pdf",
     "index.html": "/index.html",
     "static/media/gitlab.svg": "/static/media/gitlab.3212aea41566f76acc1f9d336534bb1d.svg",
     "static/media/shameem_logo.svg": "/static/media/shameem_logo.08dc0aa04dea14188e484f2155c2e949.svg",
     "main.0f65d418.css.map": "/static/css/main.0f65d418.css.map",
-    "main.4e671c2d.js.map": "/static/js/main.4e671c2d.js.map",
+    "main.8b85dd5a.js.map": "/static/js/main.8b85dd5a.js.map",
     "787.623829fa.chunk.js.map": "/static/js/787.623829fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f65d418.css",
-    "static/js/main.4e671c2d.js"
+    "static/js/main.8b85dd5a.js"
   ]
 }
